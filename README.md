@@ -1,7 +1,7 @@
-# Test
+# Home work 00
 
-My first repository
+Grachev Denis
 
-My furst commit
+20 Group
 
 
